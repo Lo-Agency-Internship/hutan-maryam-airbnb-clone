@@ -10,7 +10,11 @@
 .section2 .bg-black{
     height: 297.75px;
     background-color: black;
+    padding: 0% 80px;
 
+}
+.section2 .bg-black img{
+    border-radius: 15px;
 }
 
 .section3{
